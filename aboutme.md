@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Gabriel Fabien-Ouellet
+show-avatar: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Professor in geophysics, [Polytechnique Montréal](http://www.polymtl.ca)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Contact
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polytechnique Montréal<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Département des génies civil, géologique et des mines<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Office: B-650<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel: 1-514-340-4711 ext 4800<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email: <gabriel.fabien-ouellet@polymtl.ca><br/>
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Education
+  * Postdoc in Geophysics (2018), [Stanford University](https://www.stanford.edu)
+  * PhD in Earth Sciences (2017), [INRS](http://www.inrs.ca)
+  * M.Sc in Earth Sciences (2013), [Université Laval](https://www.ulaval.ca)
+  * B.Eng in Engineering Physics (2012), [Université Laval](https://www.ulaval.ca)
+  * B.Sc in Physics (2010), [Université Laval](https://www.ulaval.ca)
+  
+ 
+  
+  

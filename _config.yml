@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://gfabieno.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -15,6 +15,7 @@ baseurl: ""
 
 # Name of website
 title: Gabriel Fabien-Ouellet
+site-title: Gabriel Fabien-Ouellet
 
 # Short description of your site
 description: Professor in Geophysics
@@ -23,12 +24,13 @@ description: Professor in Geophysics
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "https://gfabieno.github.io"
+  Research: "research"
+#  Teaching: "aboutme"
+  Publications: "references"
+  Codes:
+    - SeisCL: "https://github.com/gfabieno/SeisCL/"
+  Contact/About: "aboutme"
+  Home: "https://gfabieno.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -36,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/avatar-icon.png"
+# title-img: "/img/avatar-icon.png"
 
 # --- Background colour/image options --- #
 
@@ -64,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Gabriel Fabien-Ouellet
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,13 +74,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "gabriel.fabien-ouellet@polymtl.ca"
+#  facebook: daattali
+  github: "gfabieno"
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: "gabriel-fabien-ouellet-29b85a13a/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -99,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "http://gfabieno.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -231,6 +233,9 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+scholar:
+  style: mla
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
